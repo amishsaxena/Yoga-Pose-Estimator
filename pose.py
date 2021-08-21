@@ -296,7 +296,6 @@ while True:
     
     FRAME_WINDOW5.markdown("<h2 style='text-align: center;font-size:25px;text-transform: capitalize'>  Instructions for Camera Setup:</h2>", unsafe_allow_html=True)
     FRAME_WINDOW6.markdown("<h2 style='text-align: center;font-size:20px;text-transform: capitalize'> Stand more than 3 feet from the camera. <br> Make sure that your complete body is in the camera frame <br> (including toes, forehead and hands)</h2>", unsafe_allow_html=True)
-    ### Have a Good Cam
 
 else:
     st.write('Stopped')
